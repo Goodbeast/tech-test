@@ -12,8 +12,8 @@ When you're finished, please return the test via email.  There's no need to
 clone or fork this repository.
 
 ## Question 1: The Box
-Recreate the image below using valid HTML and CSS or SASS. Please provide a URL
-to your solution in your follow up email.
+Recreate the image below using valid HTML and CSS or SASS. Use the fewest number of html elements possible.
+Please provide a URL to your solution in your follow up email.
 
 ![boxtest](box.png)
 
